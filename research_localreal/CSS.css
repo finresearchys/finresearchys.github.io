@@ -1,0 +1,124 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	
+}
+
+th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+ul {
+	list-style-type: none;
+	margin-left: 0em;	
+}
+
+li{
+    margin-top: 10px;
+}
+
+li.a{
+    margin-top: 0px;
+}
+
+li.b{
+    margin-top: 4px;
+}
+
+li:first-child {
+    margin-top:0;
+}
+
+p{
+ 	padding-left: -2em;
+}
+
+.photo{ float:left;
+
+}
+.bodystyle {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+
+}
+
+.small {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: smaller;
+}
+
+.medium {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+
+.big {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: larger;
+}
+
+.xbig {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+}
+
+.expanded {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	line-height: 14px;
+	letter-spacing: 2px;
+}
+
+.extraexpanded {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	line-height: 24px;
+	letter-spacing: 2px;
+}
+
+.justified {
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+}
+
+.footer {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 9px;
+	color: #999999;
+}
+
+.box1 {
+	padding: 3px;
+	border-width: medium;
+	border-style: solid;
+	border-color: #CCCCCC #666666 #666666 #CCCCCC;
+}
+
+.box2 {
+	font-style: italic;
+	word-spacing: 2pt;
+	padding: 3px;
+	border: 1px solid;
+}
+
+
+a:link {
+text-decoration:none; color:#990000;
+}
+
+A:visited {
+text-decoration:none; color:#990000;
+}
+
+A:hover {
+text-decoration:underline; color:#990000;
+}
+
+C
